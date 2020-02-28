@@ -3,6 +3,7 @@ Read an integer . For all non-negative integers , print . See the sample for det
 """
 
 if __name__ == '__main__':
+    print("")
     n = int(input())
 
     if 1<= n <= 20:
